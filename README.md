@@ -1,10 +1,8 @@
 # Hoi, I'm NoPlagiarism
 ---
-<br />
 
 ## Nothing's here.
 
-<br />
 <br />
 
 ## Or is it?
