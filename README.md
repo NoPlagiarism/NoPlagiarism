@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hoi, I'm NoPlagiarism
+---
+<br />
 
-<!--
-**NoPlagiarism/NoPlagiarism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nothing's here.
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Or is it?
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=NoPlagiarism&column=8&theme=discord&no-frame=true&no-bg=true"/>
+</a>
